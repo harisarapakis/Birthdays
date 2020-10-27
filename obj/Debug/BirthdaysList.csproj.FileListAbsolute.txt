@@ -1,0 +1,7 @@
+C:\Users\haris\source\repos\Variables\BirthdaysList\obj\Debug\BirthdaysList.csprojAssemblyReference.cache
+C:\Users\haris\source\repos\Variables\BirthdaysList\obj\Debug\BirthdaysList.csproj.CoreCompileInputs.cache
+C:\Users\haris\source\repos\Variables\BirthdaysList\bin\Debug\BirthdaysList.exe.config
+C:\Users\haris\source\repos\Variables\BirthdaysList\bin\Debug\BirthdaysList.exe
+C:\Users\haris\source\repos\Variables\BirthdaysList\bin\Debug\BirthdaysList.pdb
+C:\Users\haris\source\repos\Variables\BirthdaysList\obj\Debug\BirthdaysList.exe
+C:\Users\haris\source\repos\Variables\BirthdaysList\obj\Debug\BirthdaysList.pdb
